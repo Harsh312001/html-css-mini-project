@@ -1,0 +1,123 @@
+header{
+    padding:10px;
+    /* background-color:black; */
+    text-align: center;
+    
+}
+
+
+
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font size: 100px; ;
+}
+title{
+    color:blue;
+}
+body{
+    line-height: 1.5;
+    font-weight=600;
+    word word-spacing: 4;
+    text-indent:10px;
+    
+
+
+}
+p::first-line{
+    color:black;}
+h2{
+    color:black;
+}
+.special{
+     color:black;
+}
+
+#heading{
+    color:white;
+    background-color:blue;
+
+}
+
+h1{
+    font-family:'pacifico', 'Arial Narrow', Arial, sans-serif;
+    font-size:60px;
+    color: blue;
+    padding:5px;
+    border: 2px solid  black;
+
+
+}
+fieldset{
+    font-size: 20px;
+    border: 2px solid black;
+}
+.percentage{
+    font-size: 200px;
+}
+.rem{
+    font-size: 50px;
+}
+div{
+    float:right;
+    height: 350px;
+    width:300px;
+    padding: 10px;
+    border: 6px solid black;
+    margin:100px;
+    background-color:yellow;
+    color: black;
+}
+h3{
+    color:black;
+}
+table,tr,th,td{
+    border: 2px solid black;
+    border border-collapse: collapse;
+    padding :10px;
+    border spacing: 5px;
+    width:100px;    
+}
+th{
+    background-color:blue;
+}
+td{
+    background-color:yellowgreen;
+}
+tr{
+    background-color: red;
+}
+body{
+     background-color:yellow; 
+}
+form{
+    border: 5px solid black;
+    margin: 15px 38px;
+    padding:  5px;
+    font-size: 18px;
+    /* background-color:chartreuse; */
+
+}
+p5{
+    color:black;
+     font-size: 18px;
+    
+}
+html{
+    font-size: 1em;
+}
+@media screen and (width:600px)
+{
+    body{
+        color:black;
+    }
+}
+nav a{
+    font-size: 30px;
+    display: block;
+    
+    
+    
+    
+    
+}
